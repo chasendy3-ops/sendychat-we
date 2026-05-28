@@ -1,0 +1,23 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "sendymanga-4419f",
+                    "appId": "1:27391753411:web:5f2c6e2a5432c17f593676",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "sendymanga-4419f",
+                    "configurations": {
+                        "android": "1:27391753411:web:5f2c6e2a5432c17f593676",
+                        "ios": "1:27391753411:web:5f2c6e2a5432c17f593676",
+                        "web": "1:27391753411:web:5f2c6e2a5432c17f593676"
+                    }
+                }
+            }
+        }
+    }
+}
