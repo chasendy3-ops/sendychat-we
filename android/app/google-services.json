@@ -1,8 +1,8 @@
 {
   "project_info": {
-    "project_number": "288842837392",
-    "project_id": "we-chat-75f13",
-    "storage_bucket": "we-chat-75f13.appspot.com"
+    "project_number": "537431303083",
+    "project_id": "sendychat-7b5fb",
+    "storage_bucket": "sendychat-7b5fb.firebasestorage.app"
   },
   "client": [
     {
@@ -44,7 +44,7 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBeszZHLYJNyjUhpujMH9yZ4ol9JqsAmPU"
+          "current_key": "AIzaSyDGF1agSEfEd2mzAMG8KYqt---LG9PW6as"
         }
       ],
       "services": {
